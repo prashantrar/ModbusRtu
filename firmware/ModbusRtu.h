@@ -38,7 +38,7 @@
  */
 
 #include <inttypes.h>
-#include "Arduino.h"	
+#include "Application.h"	
 #include "Print.h"
 
 /**
